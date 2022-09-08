@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(167, 24, 24);
+    align-items: center;
+}
+img{
+       width: 150px;
+    height: 150px;
+    margin-left: 15cm;
+    }
+   #div1{
+    background-color: grey;
+    width: 300px;
+    height: 3.7in;
+    float: left;
+   }
+   ul{
+    text-align: center;
+    text-size-adjust: 10px;
+   }
+   #div{
+    background-color: orange;
+    float: right;
+   }
